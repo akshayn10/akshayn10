@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=IT+Undergraduate+at+UOM;Tech+Enthusiast;)](https://git.io/typing-svg)
 
 
-<a href="https://www.linkedin.com/in/akshayn10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshayn10" height="30" width="40" />
-<a href="https://twitter.com/_Akshayn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_Akshayn" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/akshayan98210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akshayan98210" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akshayn10/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshayn10" height="30" width="40" />
+<a href="https://twitter.com/_Akshayn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_Akshayn" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/akshayan98210" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akshayan98210" height="30" width="40" /></a>
   
 
 
